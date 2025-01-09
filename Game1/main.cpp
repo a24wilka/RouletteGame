@@ -181,13 +181,7 @@ int main(){
                 }
                 lop=false;
             }
-            /*cout << " spela igen j/n\n"; //loopa här loop 3
-            cin >> svar2;
-            if( svar2 == 'j'){
-              //  loop3 = true;
-                
-            }else if( svar2 == 'n'){ // loop med loop3
-               // loop3 = false;*/
+            
             
         
             
